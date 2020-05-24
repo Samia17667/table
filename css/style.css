@@ -1,0 +1,9 @@
+table,
+th,
+td {
+    padding: 50px;
+    text-align: center;
+    border-collapse: collapse;
+    border: 3px solid brown;
+    font-family: fantasy;
+}
